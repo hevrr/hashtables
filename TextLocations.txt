@@ -1,0 +1,5 @@
+/ This file stores all the text locations for reference.
+/ Please format .txts such that there are two blank lines after content
+/ Please do not edit the texts below!
+Ssrc/Sonnets.txt
+Tsrc/Harry Potter and the Sorcerer's Stone.txt

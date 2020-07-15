@@ -1,0 +1,17 @@
+TEXTS:
+/Chapter title
+
+New paragraph.
+
+Another new paragraph.
+
+/Chapter title
+
+Etc.
+
+SONNETS:
+Word word word word (this is sonnet 1)
+Word word word word...
+
+Word word word word (this is sonnet 2)
+Word word word word...
